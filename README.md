@@ -40,7 +40,6 @@ To replicate our analysis or explore the dataset further, follow these steps:
 5. Run the Python scripts in the `scripts/` directory to execute SQL queries and perform analysis.
 6. Explore the results in the `results/` directory and draw your own conclusions.
 
-## Contributors
 
 ## Contributors
 
