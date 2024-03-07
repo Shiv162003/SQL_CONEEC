@@ -10,8 +10,8 @@ In this project, we have analyzed IMDb movie data to derive various insights abo
 
 The dataset used in this project comprises IMDb movie data, including information about movies, actors, directors, genres, ratings, and more. We have designed an Entity-Relationship (ER) diagram to visualize the structure of our database.
 
-![ER Diagram](![WhatsApp Image 2024-03-07 at 14 33 43_bcb7831c](https://github.com/Shiv162003/SQL_CONEEC/assets/120489897/6c1cd3ed-8fd0-4fc8-957a-4eb302747e39)
-)
+![WhatsApp Image 2024-03-07 at 14 33 43_bcb7831c](https://github.com/Shiv162003/SQL_CONEEC/assets/120489897/6c1cd3ed-8fd0-4fc8-957a-4eb302747e39)
+
 
 ## Analysis Tasks
 
