@@ -42,8 +42,13 @@ To replicate our analysis or explore the dataset further, follow these steps:
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Teammate's Name](https://github.com/teammateusername)
+## Contributors
+
+- [Shivansh Nautiyal](https://github.com/shivansh-nautiyal)
+- [Shantanu Rokde](https://github.com/shantanu-rokde)
+- [Riya Aggarwal](https://github.com/riya-aggarwal)
+- [Saumit Kunder](https://github.com/saumitkunder)
+
 
 ## Acknowledgments
 
@@ -53,4 +58,3 @@ Feel free to reach out if you have any questions, suggestions, or feedback!
 
 Happy analyzing!
 
-**Note:** Replace the placeholders (e.g., `Your Name`, `yourusername`, `Teammate's Name`, `teammateusername`) with appropriate information. Also, ensure that the ER diagram image file (`ER_diagram.png`) is included in the repository.
