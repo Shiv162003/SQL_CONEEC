@@ -44,9 +44,9 @@ To replicate our analysis or explore the dataset further, follow these steps:
 
 ## Contributors
 
-- [Shivansh Nautiyal](https://github.com/shivansh-nautiyal)
-- [Shantanu Rokde](https://github.com/shantanu-rokde)
-- [Riya Aggarwal](https://github.com/riya-aggarwal)
+- [Shivansh Nautiyal](https://github.com/shiv162003)
+- [Shantanu Rokde](https://github.com/ShantanuRokde)
+- [Riya Aggarwal](https://github.com/riyaaggarwal)
 - [Saumit Kunder](https://github.com/saumitkunder)
 
 
